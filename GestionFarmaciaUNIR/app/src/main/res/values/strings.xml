@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Gestion Farmacia UNIR</string>
+    <string name="name">Name</string>
+    <string name="detalle_pedido">Detalle Pedido</string>
+    <string name="imprimir">Imprimir</string>
+    <string name="nombre_del_medicamento">Nombre del Medicamento:</string>
+    <string name="tipo_del_medicamento">Tipo del Medicamento:</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="distribuidor_farmaceutico">Distribuidor Farmaceutico:</string>
+    <string name="cofarma">Cofarma</string>
+    <string name="empsephar">Empsephar</string>
+    <string name="cemefar">Cemefar</string>
+    <string name="sucursal">Sucursal:</string>
+    <string name="principal">Principal</string>
+    <string name="secundaria">Secundaria</string>
+    <string name="borrar">Borrar</string>
+    <string name="ok">Ok</string>
+    <string name="pedido">Pedido:</string>
+    <string name="enviar">Enviar</string>
+    <string name="direcci_n">Dirección:</string>
+    <string-array name="tipo_medicamento">
+        <item>Seleccione</item>
+        <item>Analgésico</item>
+        <item>Analéptico</item>
+        <item>Anestésico</item>
+        <item>Antiácido</item>
+        <item>Antidepresivo </item>
+        <item>Antibióticos</item>
+
+    </string-array>
+</resources>
